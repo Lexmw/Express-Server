@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Cuprum&display=swap');
+body {
+    background: #ADFB73;
+    font-size: 13px;
+    font-family: monospace;
+}
+
+table, th, tr, td {
+border: 2px solid #0C1169;
+border-collapse: collapse;
+}
+
+th{
+    font-size: 16px;
+}
+img {
+    width: 1000px;
+    height: 250px;
+}
+
+h1{
+    font-family: 'Cuprum', sans-serif;
+    color: rgb(238, 18, 66);
+    font-size: 40px;
+}
